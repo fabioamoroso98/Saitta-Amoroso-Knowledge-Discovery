@@ -1,4 +1,3 @@
-# Saitta-Amoroso-Knowledge-Discovery
 # The dataset used can't be uploaded in the GitHub repository because it exceeds the storage limits. 
 # It's possible to download it directly from Kaggle through the following link:
 # https://www.kaggle.com/datasets/alessiocorrado99/animals10
